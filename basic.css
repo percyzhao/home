@@ -22,7 +22,7 @@ body
 {
 	font-size: 20pt;
 }
-/* Makes the navbar, height is full page, it can't move*/
+/* Makes the navbar, height is full page, it cannot move*/
 #navbar 
 {
 	height: 100%; 
@@ -48,6 +48,7 @@ body
 	color: white;
 
 }
+/* Creates the black border border*, gives a small left and right margin, changes background colour. This is all for the navbar borders.*/
 .border
 {
 	border-color: black;
